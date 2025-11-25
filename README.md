@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Dhoke</h1>
-<h3 align="center">I like mathematics and physics</h3>
+<h3 align="center">I like mathematics </h3>
 
 - I’m currently working on **Finance stuff**
 
