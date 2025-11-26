@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra Dhoke</h1>
 <h3 align="center">I like mathematics </h3>
 
-- I’m currently working on **Finance stuff**
+- I’m currently working on...
 
 
 <h3 align="left">Languages and Tools:</h3>
